@@ -19,7 +19,9 @@ source_urls = [
     "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/refs/heads/main/domains_all.lst",
     "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/refs/heads/main/ooni_domains.lst",
     "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/refs/heads/main/community.lst",
-    "https://community.antifilter.download/list/domains.lst"
+    "https://community.antifilter.download/list/domains.lst",
+    "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/refs/heads/beta/ooni_domains.lst",
+    "https://raw.githubusercontent.com/1andrevich/Re-filter-lists/refs/heads/beta/domains_all.lst"
 ]
 
 filtered_minimized = []
