@@ -4,11 +4,11 @@ from urllib.parse import urlparse
 # Основные доменные зоны
 target_zones = {'ru', 'su', 'xn--p1ai', 'moscow', 'volga', 'tatar', 'yandex', 
                 'xn--d1acj3b', 'xn--80asehdb', 'xn--c1avg', 'xn--80aswg', 
-                'xn--80adxhks', 'by', 'xn--90ais', 'kz', 'xn--80ao21a'}
+                'xn--80adxhks', 'by', 'xn--90ais'}
 
 # Двухуровневые доменные зоны (особые случаи)
 two_level_zones = {
-    'ru.net', 'org.ru', 'net.ru', 'com.kz', 'org.kz', 'com.ru', 'spb.ru', 'msk.ru',
+    'ru.net', 'org.ru', 'net.ru', 'com.ru', 'spb.ru', 'msk.ru',
     'moy.su', 'ucoz.ru', 'narod.ru', '3dn.ru', 'my1.ru', 'okis.ru', 'had.su',
     'clan.su', 'wix.ru', 'listbb.ru', 'allbest.ru', 'mya5.ru', 'liveforums.ru',
     'forum24.ru', 'appbu.ru'
